@@ -1,0 +1,237 @@
+4
+BAS1152
+Tieng Anh - course 1
+20
+0
+T
+I'm very happy _____ in India. I really miss being there.
+to live
+to have lived
+to be lived
+to be living
+B
+1
+F
+They didn't reach an agreement ______ their differences.
+on account of
+due
+because
+owing
+A
+2
+F
+The woman, who has been missing for 10 days, is believed _____.
+to be abducted
+to be abducting
+to have been abducted
+to have been abducting
+C
+3
+F
+I wish I _____ those words. But now it's too late.
+not having said
+have never said
+never said
+had never said
+D
+4
+F
+She was working on her computer with her baby next to _____.
+herself
+her
+her own
+hers
+B
+5
+F
+_____ to offend anyone, she said both cakes were equally good.
+Not wanting
+As not wanting
+She didn't want
+Because not wanting
+A
+6
+F
+_____ in trying to solve this problem. It's clearly unsolvable.
+There's no point
+It's no point
+There isn't pont
+It's no need
+A
+7
+F
+Last year, when I last met her, she told me she _____ a letter every day for the last two months.
+had written
+has written
+had been writting
+wrote
+C
+8
+F
+He _____ robbed as he was walking out of the bank.
+had
+did
+got
+were
+C
+9
+F
+_____ forced to do anything. He acted of his own free will.
+In no way was he
+No way he was
+In any way he was
+In any way was he
+A
+10
+F
+It _____ the best idea to pay for those tickets by credit card. It was too risky.
+may not have been
+may not be
+might not be
+must not have been
+A
+11
+F
+They _____ in the basement for three months.
+were made sleeping
+were made sleep
+were made to sleep
+made to sleep
+C
+12
+F
+We'll never know what might have happened _____ the email earlier.
+if he sent
+had he sent
+if he has sent
+did he sent
+B
+13
+F
+If success _____, we need to prepare ourselves for every possible scenario.
+is to be achieved
+is achieved
+will be achieved
+is due to achieve
+A
+14
+F
+______ gifts to the judges.
+It's not allowed offering
+It's not permitted to offer
+It's not permitted offering
+It's not allowed to offer
+B
+15
+F
+The house was emty. There ______ there.
+wasn't nobody
+was anybody
+was somebody
+was nobody
+D
+16
+F
+______ some more coffe?
+Do you
+Do you like
+You'd like
+Would you like
+D
+17
+F
+I forgot ______ the light befor I left.
+to turn off
+put off
+turning off
+shot
+A
+18
+F
+He remembers being ______ to the fair as a child
+visited
+brought
+taken
+show
+C
+19
+F
+Choose the right sentences:
+Ask her when will be ready the food
+Ask her when the food will be ready
+Ask her when will the food be ready
+Ask her when will be the food be
+B
+INT1358
+Toan roi rac 1
+8
+0
+F
+Cho tap A={a,b,c} khi do so phan tu cua tap luu thua cua tap S la:
+3
+6
+8
+9
+C
+1
+F
+Cho X={1,2,3,4,5,6,7,8,9}. Xau bit bieu dien dap A la:111001011, xau bit bieu dien tap B la 010111001. Tim xau bit bieu dien A giao B
+010001100
+101110010
+010001001
+010001101
+C
+2
+F
+So cac xau nhi phan co do dai la 10 la:
+1024
+1000
+20
+10
+A
+3
+F
+So ham tu tap A co k phan tu vao tap B co n phan tu la:
+nk
+(n-k)!
+kn
+(n!/k!)
+A
+4
+F
+Mot sv phai tra loi 8 trong 10 cau hoi cua 1 ky thi. SV nay co bao nhieu su lua chon phai tra loi it nhat 4/5 cau dau tien?
+35
+75
+25
+30
+A
+5
+F
+Cho tap A={1,3,4,5,9,11,13,15,17,19} hoi ta can it nhat bao nhieu phan tu tu A de chan rang co mot cap co tong bang 20
+6
+7
+8
+9
+A
+6
+F
+Cho tap A gom 10 phan tu.So tap con cua A la
+10
+100
+1024
+1000
+C
+7
+F
+Cho tap A={1,2,3,4,5,6,7,8,9}, tap B={1,2,3,9,10}.A-B la
+{1,2,3,9}
+{4,5,6,7,8}
+{10}
+{1,2,3,9,10}
+B
+INT1339
+Ngon ngu lap trinh C++
+0
+INT1306
+Cau truc du lieu va giai thuat
+0

@@ -1,0 +1,19 @@
+TAI KHOAN             MAT KHAU
+GV                    GV
+N19DCCN007            19007
+N19DCCN009            19009
+N19DCCN013            19013
+N19DCCN015            19015
+N19DCCN024            19024
+N19DCCN028            19028
+N19DCCN032            19032
+N19DCCN042            19042
+N19DCCN069            19069
+N19DCCN071            19071
+N19DCCN072            19072
+N19DCCN085            19085
+N19DCCN086            19086
+N19DCCN078            19078
+N19DCCN079            19079
+N19DCCN096            19096
+N19DCCN135            19135
